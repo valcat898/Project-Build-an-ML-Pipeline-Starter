@@ -88,7 +88,7 @@ if __name__ == "__main__":
         help='Minumim house price to be considered',
         required=True
     )
-
+#changes
     parser.add_argument(
         "--max_price",
         type=float,
