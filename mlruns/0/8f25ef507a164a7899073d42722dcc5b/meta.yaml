@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f25ef507a164a7899073d42722dcc5b/artifacts
+end_time: 1717496723505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f25ef507a164a7899073d42722dcc5b
+run_name: aged-whale-225
+run_uuid: 8f25ef507a164a7899073d42722dcc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717496683868
+status: 4
+tags: []
+user_id: catherinevaladez

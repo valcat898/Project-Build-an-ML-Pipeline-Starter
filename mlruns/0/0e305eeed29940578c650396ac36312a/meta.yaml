@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0e305eeed29940578c650396ac36312a/artifacts
+end_time: 1717496489384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e305eeed29940578c650396ac36312a
+run_name: powerful-steed-711
+run_uuid: 0e305eeed29940578c650396ac36312a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717496485384
+status: 4
+tags: []
+user_id: catherinevaladez

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e91b2ca495b34e45b270960fe5afbbd2/artifacts
+end_time: 1717497067702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e91b2ca495b34e45b270960fe5afbbd2
+run_name: brawny-elk-306
+run_uuid: e91b2ca495b34e45b270960fe5afbbd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717497045863
+status: 3
+tags: []
+user_id: catherinevaladez

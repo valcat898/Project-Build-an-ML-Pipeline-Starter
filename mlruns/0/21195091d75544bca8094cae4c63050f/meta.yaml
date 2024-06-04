@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/21195091d75544bca8094cae4c63050f/artifacts
+end_time: 1717496485309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21195091d75544bca8094cae4c63050f
+run_name: bright-sow-755
+run_uuid: 21195091d75544bca8094cae4c63050f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717496446293
+status: 3
+tags: []
+user_id: catherinevaladez
