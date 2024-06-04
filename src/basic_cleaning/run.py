@@ -34,7 +34,7 @@ def go(args):
     df['last_review'] = pd.to_datetime(df['last_review'])
     # TODO: add code to fix the issue happened when testing the model
     idx = df['longitude'].between(-74.25, -73.50) & df['latitude'].between(40.5, 41.2)
-    df = df[idx].copy()
+    df = df[idx].copy() 
     
 
     # Save the cleaned data
@@ -92,7 +92,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--max_price",
         type=float,
-        help='Maximum house price to be considered',
+        help='Maximum house price to be considered'
         required=True
     )
 
