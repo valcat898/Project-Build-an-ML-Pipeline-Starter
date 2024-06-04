@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3f7321001d914cf8bf0af89f6f1b9ff9/artifacts
+end_time: 1717490334471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f7321001d914cf8bf0af89f6f1b9ff9
+run_name: resilient-finch-936
+run_uuid: 3f7321001d914cf8bf0af89f6f1b9ff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717490315286
+status: 3
+tags: []
+user_id: catherinevaladez

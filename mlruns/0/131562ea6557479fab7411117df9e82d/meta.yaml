@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/131562ea6557479fab7411117df9e82d/artifacts
+end_time: 1717479145078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131562ea6557479fab7411117df9e82d
+run_name: dapper-cub-260
+run_uuid: 131562ea6557479fab7411117df9e82d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717479134188
+status: 4
+tags: []
+user_id: catherinevaladez

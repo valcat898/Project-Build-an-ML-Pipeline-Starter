@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f5f07f6d379247d8b4bde8023ff54d0f/artifacts
+end_time: 1717478889246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5f07f6d379247d8b4bde8023ff54d0f
+run_name: tasteful-tern-708
+run_uuid: f5f07f6d379247d8b4bde8023ff54d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717478886860
+status: 4
+tags: []
+user_id: catherinevaladez

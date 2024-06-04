@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d329ed2899d14d43ace74081d8ed7898/artifacts
+end_time: 1717466834180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d329ed2899d14d43ace74081d8ed7898
+run_name: kindly-flea-98
+run_uuid: d329ed2899d14d43ace74081d8ed7898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717466781004
+status: 3
+tags: []
+user_id: catherinevaladez

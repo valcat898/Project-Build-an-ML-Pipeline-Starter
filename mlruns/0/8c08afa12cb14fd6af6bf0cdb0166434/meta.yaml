@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c08afa12cb14fd6af6bf0cdb0166434/artifacts
+end_time: 1717493065775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c08afa12cb14fd6af6bf0cdb0166434
+run_name: stylish-quail-792
+run_uuid: 8c08afa12cb14fd6af6bf0cdb0166434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717492878550
+status: 3
+tags: []
+user_id: catherinevaladez

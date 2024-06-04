@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f80703a7cd234f42a03639e3da8d1ecc/artifacts
+end_time: 1717485789053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80703a7cd234f42a03639e3da8d1ecc
+run_name: polite-doe-485
+run_uuid: f80703a7cd234f42a03639e3da8d1ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717485771176
+status: 3
+tags: []
+user_id: catherinevaladez

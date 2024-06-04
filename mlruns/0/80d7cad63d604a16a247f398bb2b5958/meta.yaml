@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/80d7cad63d604a16a247f398bb2b5958/artifacts
+end_time: 1717479342654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80d7cad63d604a16a247f398bb2b5958
+run_name: big-bat-108
+run_uuid: 80d7cad63d604a16a247f398bb2b5958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717479299827
+status: 3
+tags: []
+user_id: catherinevaladez

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/331ec44589d643af8dd65633b75d3374/artifacts
+end_time: 1717490499568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 331ec44589d643af8dd65633b75d3374
+run_name: sassy-shoat-682
+run_uuid: 331ec44589d643af8dd65633b75d3374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717490496075
+status: 4
+tags: []
+user_id: catherinevaladez

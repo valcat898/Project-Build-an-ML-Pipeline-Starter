@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5185b7de6df14d8fa7490ea34631bc61/artifacts
+end_time: 1717479342382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5185b7de6df14d8fa7490ea34631bc61
+run_name: fun-foal-755
+run_uuid: 5185b7de6df14d8fa7490ea34631bc61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717479307367
+status: 3
+tags: []
+user_id: catherinevaladez

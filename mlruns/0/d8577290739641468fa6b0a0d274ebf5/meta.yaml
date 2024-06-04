@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d8577290739641468fa6b0a0d274ebf5/artifacts
+end_time: 1717484911926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8577290739641468fa6b0a0d274ebf5
+run_name: useful-shark-468
+run_uuid: d8577290739641468fa6b0a0d274ebf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717484908245
+status: 4
+tags: []
+user_id: catherinevaladez

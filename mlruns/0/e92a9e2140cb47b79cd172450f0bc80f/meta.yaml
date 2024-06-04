@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e92a9e2140cb47b79cd172450f0bc80f/artifacts
+end_time: 1717477383591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e92a9e2140cb47b79cd172450f0bc80f
+run_name: rebellious-ram-565
+run_uuid: e92a9e2140cb47b79cd172450f0bc80f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717477371987
+status: 3
+tags: []
+user_id: catherinevaladez

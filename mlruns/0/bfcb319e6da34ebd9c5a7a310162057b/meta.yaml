@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bfcb319e6da34ebd9c5a7a310162057b/artifacts
+end_time: 1717491576014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfcb319e6da34ebd9c5a7a310162057b
+run_name: magnificent-toad-370
+run_uuid: bfcb319e6da34ebd9c5a7a310162057b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717491272806
+status: 3
+tags: []
+user_id: catherinevaladez

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8d34a510d931419a84ea7d040929ecf5/artifacts
+end_time: 1717462576277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d34a510d931419a84ea7d040929ecf5
+run_name: traveling-sloth-686
+run_uuid: 8d34a510d931419a84ea7d040929ecf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717462573352
+status: 4
+tags: []
+user_id: catherinevaladez

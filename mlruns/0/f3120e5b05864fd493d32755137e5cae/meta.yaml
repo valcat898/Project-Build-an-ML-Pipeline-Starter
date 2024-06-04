@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f3120e5b05864fd493d32755137e5cae/artifacts
+end_time: 1717491272500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3120e5b05864fd493d32755137e5cae
+run_name: spiffy-cod-8
+run_uuid: f3120e5b05864fd493d32755137e5cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717490936292
+status: 3
+tags: []
+user_id: catherinevaladez

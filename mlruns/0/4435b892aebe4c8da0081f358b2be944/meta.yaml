@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4435b892aebe4c8da0081f358b2be944/artifacts
+end_time: 1717473075811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4435b892aebe4c8da0081f358b2be944
+run_name: skittish-crane-480
+run_uuid: 4435b892aebe4c8da0081f358b2be944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717473051028
+status: 3
+tags: []
+user_id: catherinevaladez

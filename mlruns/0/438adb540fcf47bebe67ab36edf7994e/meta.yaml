@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/438adb540fcf47bebe67ab36edf7994e/artifacts
+end_time: 1717464915183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 438adb540fcf47bebe67ab36edf7994e
+run_name: popular-ape-915
+run_uuid: 438adb540fcf47bebe67ab36edf7994e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717464474881
+status: 3
+tags: []
+user_id: catherinevaladez

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/81e629527d8f44748e441b165142ac34/artifacts
+end_time: 1717492129512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81e629527d8f44748e441b165142ac34
+run_name: adventurous-mink-561
+run_uuid: 81e629527d8f44748e441b165142ac34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717491752461
+status: 3
+tags: []
+user_id: catherinevaladez

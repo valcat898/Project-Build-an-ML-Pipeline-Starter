@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ca194f4b26b942c1920873ebe71f940d/artifacts
+end_time: 1717478757502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca194f4b26b942c1920873ebe71f940d
+run_name: unique-doe-763
+run_uuid: ca194f4b26b942c1920873ebe71f940d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717478671509
+status: 4
+tags: []
+user_id: catherinevaladez

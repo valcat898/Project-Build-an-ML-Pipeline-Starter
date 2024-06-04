@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7dc753351b824fc18eb406ac62c9fbff/artifacts
+end_time: 1717480441439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dc753351b824fc18eb406ac62c9fbff
+run_name: resilient-cub-535
+run_uuid: 7dc753351b824fc18eb406ac62c9fbff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717480437837
+status: 4
+tags: []
+user_id: catherinevaladez

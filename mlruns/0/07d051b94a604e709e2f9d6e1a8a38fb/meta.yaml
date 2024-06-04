@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/07d051b94a604e709e2f9d6e1a8a38fb/artifacts
+end_time: 1717486504647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07d051b94a604e709e2f9d6e1a8a38fb
+run_name: whimsical-gnat-482
+run_uuid: 07d051b94a604e709e2f9d6e1a8a38fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717486266991
+status: 3
+tags: []
+user_id: catherinevaladez

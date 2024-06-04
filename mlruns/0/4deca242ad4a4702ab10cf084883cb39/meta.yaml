@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4deca242ad4a4702ab10cf084883cb39/artifacts
+end_time: 1717473076113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4deca242ad4a4702ab10cf084883cb39
+run_name: agreeable-loon-616
+run_uuid: 4deca242ad4a4702ab10cf084883cb39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717473035805
+status: 3
+tags: []
+user_id: catherinevaladez

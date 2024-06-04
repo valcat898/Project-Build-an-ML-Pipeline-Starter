@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/72e2439f79fd432bbe17add2ce317477/artifacts
+end_time: 1717480660187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72e2439f79fd432bbe17add2ce317477
+run_name: casual-owl-133
+run_uuid: 72e2439f79fd432bbe17add2ce317477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717480509824
+status: 3
+tags: []
+user_id: catherinevaladez

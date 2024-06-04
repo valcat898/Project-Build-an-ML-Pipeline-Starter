@@ -1,0 +1,55 @@
+{
+    "os": "macOS-12.6.8-x86_64-i386-64bit",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-04T05:35:23.582602",
+    "startedAt": "2024-06-04T05:35:22.627673",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/valcat898/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter",
+    "host": "CatherinesAir2.lan",
+    "username": "catherinevaladez",
+    "executable": "/Users/catherinevaladez/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 1600,
+        "min": 1600,
+        "max": 1600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1600,
+            "min": 1600,
+            "max": 1600
+        }
+    ],
+    "disk": {
+        "total": 112.80464935302734,
+        "used": 21.750144958496094
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

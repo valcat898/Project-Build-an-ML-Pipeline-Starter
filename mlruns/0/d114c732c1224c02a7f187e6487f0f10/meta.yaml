@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/catherinevaladez/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d114c732c1224c02a7f187e6487f0f10/artifacts
+end_time: 1717484963844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d114c732c1224c02a7f187e6487f0f10
+run_name: treasured-robin-369
+run_uuid: d114c732c1224c02a7f187e6487f0f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717484935955
+status: 3
+tags: []
+user_id: catherinevaladez
